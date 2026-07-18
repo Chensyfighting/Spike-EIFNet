@@ -1,4 +1,4 @@
-# SEINet
+# Spike-EIFNet
 SEINet: Lightweight Spike-driven Event-Image Fusion Network for Accurate and Efficient Semantic Segmentation
 
 ![SEINet Overview](figs/SEINet_Overview.png)
