@@ -1,7 +1,7 @@
 # Spike-EIFNet
 Spike-EIFNet: Lightweight Spike-driven Event-Image Fusion Network for Accurate and Efficient Semantic Segmentation
 
-![SEINet Overview](figs/SEINet_Overview.png)
+[Spike-EIFNet Overview](figs/overall.pdf)
 
 This repository is an official PyTorch implementation of our recent work: Spike-EIFNet, accepted by **IEEE Transactions on Neural Networks and Learning Systems (TNNLS'26)**.
 
